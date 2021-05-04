@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "105996747460",
+    "firebase_url": "https://findunknownplaces.firebaseio.com",
+    "project_id": "findunknownplaces",
+    "storage_bucket": "findunknownplaces.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105996747460:android:0f54ad0d20091e6ca37f91",
+        "android_client_info": {
+          "package_name": "com.example.unknownplaces"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105996747460-pcb8emgbs92llnucl2hfof9pnmiuqdp6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.unknownplaces",
+            "certificate_hash": "b097b1961ab226e06dba1a379327c0b7329b6863"
+          }
+        },
+        {
+          "client_id": "105996747460-m2lnjnis1281st8bj820h21btrptojka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA95PzbNnuSvErFo9lfhuhA2bARK8zNO_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105996747460-m2lnjnis1281st8bj820h21btrptojka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
